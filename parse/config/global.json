@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Urika": {
+            "applicationId": "kysIn4DIkV5qQUsaF5iA8NzuURtmEnwHHf3cnFcs", 
+            "masterKey": "l9KLeNvjD0fyQznRXZjrCCUynx385lAfMxoGzEsu"
+        }, 
+        "_default": {
+            "link": "Urika"
+        }
+    }
+}
